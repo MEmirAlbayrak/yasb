@@ -27,6 +27,7 @@
     - [Grouper](./(Widget)-Grouper)
     - [GPU](./(Widget)-GPU)
     - [Home](./(Widget)-Home)
+    - [Iftar Time](./(Widget)-Iftar)
     - [Disk](./(Widget)-Disk)
     - [Language](./(Widget)-Language)
     - [Launchpad](./(Widget)-Launchpad)
